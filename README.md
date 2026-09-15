@@ -63,26 +63,42 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+<img width="1152" height="864" alt="WhatsApp Image 2026-09-14 at 7 31 12 PM" src="https://github.com/user-attachments/assets/804362b1-e67d-4e5e-8534-1e3bb115586a" />
 
 
   **MODEL GRAPH:**
+<img width="1280" height="1087" alt="WhatsApp Image 2026-09-14 at 7 31 37 PM" src="https://github.com/user-attachments/assets/16c12242-ef76-4dbb-b9e3-a9370ad8207a" />
+<img width="1152" height="864" alt="WhatsApp Image 2026-09-14 at 7 31 19 PM" src="https://github.com/user-attachments/assets/50a51ee1-61a7-4466-b2e2-5f7863a0bfe8" />
 
 
   **TABULATION:**
- 
+ <img width="1040" height="780" alt="WhatsApp Image 2026-09-14 at 7 35 06 PM" src="https://github.com/user-attachments/assets/7b46820b-2dcf-4fc3-a2e9-61967f183ab0" />
 
-**MODEL CALCULATION:**
+
+**GRAPH:**  
+
+<img width="864" height="1152" alt="WhatsApp Image 2026-09-14 at 7 37 15 PM" src="https://github.com/user-attachments/assets/65acadd0-ce7b-46bc-8a21-692f89f3608a" />
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
+  
+<img width="1040" height="716" alt="image" src="https://github.com/user-attachments/assets/a18ecc84-7126-47d3-a1f4-9d2dfa6037c6" />
 
 
   **MODEL GRAPH:**
+<img width="1280" height="631" alt="image" src="https://github.com/user-attachments/assets/d21a6c69-9bd8-4af4-b1de-d7cf240e8862" />
+<img width="1280" height="1064" alt="image" src="https://github.com/user-attachments/assets/e448b6d7-2563-4fae-bebb-a5bf8d2ffda6" />
+
 
 
   **TABULATION:**
 
- 
+ <img width="1280" height="878" alt="image" src="https://github.com/user-attachments/assets/ecb7c52f-5e52-4635-9866-e49c7efbc409" />
+  **GRAPH:** 
+  
+
+  <img width="780" height="1040" alt="image" src="https://github.com/user-attachments/assets/75cf1469-1ade-4320-a0b8-0080db51e932" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -94,8 +110,18 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
   **LT SPICE**
-  **CIRCUIT and Waveform**
-  
+  **INTEGRATOR CIRCUIT and Waveform**
+  **SINE WAVE:**
+  <img width="1280" height="680" alt="WhatsApp Image 2026-09-14 at 7 46 33 PM" src="https://github.com/user-attachments/assets/09057b18-7b53-4a08-accb-73234b985b2b" />
+  **SQUARE WAVE:**
+  <img width="1280" height="680" alt="WhatsApp Image 2026-09-14 at 7 46 49 PM" src="https://github.com/user-attachments/assets/2e2bda04-757a-4bb7-94a1-cd05bfbbdfe3" />
+  **DIFFERENTIATOR CIRCUIT and Waveform**
+  **SINE WAVE:**
+  <img width="1280" height="680" alt="WhatsApp Image 2026-09-14 at 7 50 17 PM" src="https://github.com/user-attachments/assets/3258c007-56f3-4ab6-9975-6dc72e9613d5" />
+
+  **SQUARE WAVE:**
+  <img width="1280" height="680" alt="WhatsApp Image 2026-09-14 at 7 50 02 PM" src="https://github.com/user-attachments/assets/9134c104-5cfd-4537-9875-e305b396a321" />
+
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
